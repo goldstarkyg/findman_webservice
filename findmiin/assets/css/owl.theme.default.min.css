@@ -1,0 +1,5 @@
+Unable to resolve the source file for 'frontend/Smartwave/porto_rtl/ar_SA/Yosto_Core/css/owl.theme.default.min.css'
+#0 /home/mangojaz/public_html/online/vendor/magento/framework/App/StaticResource.php(97): Magento\Framework\View\Asset\File->getSourceFile()
+#1 /home/mangojaz/public_html/online/vendor/magento/framework/App/Bootstrap.php(258): Magento\Framework\App\StaticResource->launch()
+#2 /home/mangojaz/public_html/online/pub/static.php(13): Magento\Framework\App\Bootstrap->run(Object(Magento\Framework\App\StaticResource))
+#3 {main}
